@@ -1,0 +1,745 @@
+text,intent
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Teknik Informatika?,daftar_matkul_jurusan
+statistik nilai Logika Informatika,analisis_statistik_matkul
+kurikulum prodi Manajemen,daftar_matkul_jurusan
+tips belajar Kalkulus I,rekomendasi_cara_belajar
+matkul nilai E terbanyak di Kimia,tanya_matkul_tersulit
+Ada matkul horor ga di jurusan Teknik Elektro yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+tips belajar Dasar Pemrograman,rekomendasi_cara_belajar
+Berapa rata-rata nilai IP mahasiswa pada matkul Pengantar Analisis Riil?,analisis_statistik_matkul
+Cek status tingkat kesulitan mata kuliah Kalkulus I berdasarkan data,analisis_statistik_matkul
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Psikologi?,daftar_matkul_jurusan
+Spill katalog mata kuliah jurusan Fisika semester 1 sampai 8,daftar_matkul_jurusan
+cara lulus Basis Data,rekomendasi_cara_belajar
+Materi apa yang paling penting dipelajari terlebih dahulu di Dasar Pemrograman?,rekomendasi_cara_belajar
+Banyak yang ga lulus di matkul apa sih anak Teknik Elektro?,tanya_matkul_tersulit
+Cek status tingkat kesulitan mata kuliah Struktur Data berdasarkan data,analisis_statistik_matkul
+panduan belajar materi Algoritma dan Pemrograman,rekomendasi_cara_belajar
+Trik belajar dan latihan soal buat matkul Kalkulus I gimana ya?,rekomendasi_cara_belajar
+Gimana cara memahami konsep materi Kalkulus I dari dasar min?,rekomendasi_cara_belajar
+matkul killer Manajemen,tanya_matkul_tersulit
+Apa saja kurikulum dan mata kuliah wajib di jurusan Kimia?,daftar_matkul_jurusan
+"Di jurusan Akuntansi, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+Banyak yang ga lulus di matkul apa sih anak Akuntansi?,tanya_matkul_tersulit
+Hai selamat pagi bot asisten akademik,sapaan_dan_bantuan
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Dasar Pemrograman",analisis_statistik_matkul
+daftar matkul tersulit Teknik Elektro,tanya_matkul_tersulit
+panduan belajar materi Kalkulus I,rekomendasi_cara_belajar
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Basis Data?,rekomendasi_cara_belajar
+Spill tips dapet nilai bagus di matkul Struktur Data dong kak,rekomendasi_cara_belajar
+"Saya takut dapet nilai jelek di Fisika Dasar, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Sistem Informasi?,tanya_matkul_tersulit
+Spill tips dapet nilai bagus di matkul Jaringan Komputer dong kak,rekomendasi_cara_belajar
+Kak mau tanya matkul tersulit di program studi Psikologi apa saja?,tanya_matkul_tersulit
+persentase kelulusan Fisika Dasar,analisis_statistik_matkul
+MK apa yang paling rawan dapet nilai D dan E di prodi Psikologi?,tanya_matkul_tersulit
+mata kuliah yang ada di Ilmu Hukum,daftar_matkul_jurusan
+Berapa rata-rata nilai IP mahasiswa pada matkul Dasar Pemrograman?,analisis_statistik_matkul
+Tingkat kelulusan di matkul Struktur Data beneran rendah ya min?,analisis_statistik_matkul
+cara lulus Kalkulus I,rekomendasi_cara_belajar
+matkul paling susah Manajemen,tanya_matkul_tersulit
+distribusi nilai Pengantar Analisis Riil,analisis_statistik_matkul
+"Di jurusan Fisika, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+Gimana cara memahami konsep materi Pengantar Analisis Riil dari dasar min?,rekomendasi_cara_belajar
+cara lulus Kalkulus II,rekomendasi_cara_belajar
+Kak mau tanya matkul tersulit di program studi Ilmu Hukum apa saja?,tanya_matkul_tersulit
+Cek dong berapa mahasiswa yang ngulang di matkul Kalkulus II,analisis_statistik_matkul
+Mata kuliah dengan persentase kegagalan tertinggi di Manajemen apa ya?,tanya_matkul_tersulit
+Info daftar mata kuliah yang ditawarkan pada jurusan Sistem Informasi,daftar_matkul_jurusan
+Berapa banyak mahasiswa yang dapat nilai E dan D di Fisika Dasar?,analisis_statistik_matkul
+Matkul paling killer di jurusan Teknik Informatika apaan ya min?,tanya_matkul_tersulit
+cara cepat paham konsep Dasar Pemrograman,rekomendasi_cara_belajar
+Mata kuliah dengan persentase kegagalan tertinggi di Ilmu Hukum apa ya?,tanya_matkul_tersulit
+Tolong list 5 mata kuliah tersulit di Teknik Informatika berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+Bantuan apa saja yang bisa kamu sediakan untuk mahasiswa?,sapaan_dan_bantuan
+matkul persentase D dan E tertinggi Akuntansi,tanya_matkul_tersulit
+cara cepat paham konsep Struktur Data,rekomendasi_cara_belajar
+statistik nilai Kalkulus I,analisis_statistik_matkul
+Kak mau tanya matkul tersulit di program studi Sistem Informasi apa saja?,tanya_matkul_tersulit
+Kenapa banyak mahasiswa Kimia dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+Langkah persiapan apa saja sebelum mengambil mata kuliah Dasar Pemrograman?,rekomendasi_cara_belajar
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Fisika Dasar?,rekomendasi_cara_belajar
+katalog matkul Teknik Elektro,daftar_matkul_jurusan
+Gimana cara memahami konsep materi Fisika Dasar dari dasar min?,rekomendasi_cara_belajar
+Spill tips dapet nilai bagus di matkul Kalkulus I dong kak,rekomendasi_cara_belajar
+Berapa total mahasiswa yang pernah menempuh mata kuliah Fisika Dasar?,analisis_statistik_matkul
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Pengantar Analisis Riil?,rekomendasi_cara_belajar
+distribusi nilai Jaringan Komputer,analisis_statistik_matkul
+Langkah persiapan apa saja sebelum mengambil mata kuliah Logika Informatika?,rekomendasi_cara_belajar
+cara lulus Algoritma dan Pemrograman,rekomendasi_cara_belajar
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Pengantar Analisis Riil",analisis_statistik_matkul
+Berapa banyak mahasiswa yang dapat nilai E dan D di Pengantar Analisis Riil?,analisis_statistik_matkul
+Berapa rata-rata nilai IP mahasiswa pada matkul Algoritma dan Pemrograman?,analisis_statistik_matkul
+Langkah persiapan apa saja sebelum mengambil mata kuliah Kalkulus II?,rekomendasi_cara_belajar
+matkul persentase D dan E tertinggi Matematika,tanya_matkul_tersulit
+Kak mau tanya matkul tersulit di program studi Matematika apa saja?,tanya_matkul_tersulit
+Minta saran dong cara survive dan lulus di matkul Struktur Data,rekomendasi_cara_belajar
+Berapa persen sih yang dapet A di mata kuliah Logika Informatika?,analisis_statistik_matkul
+Mata kuliah apa saja yang ada di jurusan Fisika?,daftar_matkul_jurusan
+Mata kuliah dengan persentase kegagalan tertinggi di Fisika apa ya?,tanya_matkul_tersulit
+Mau liat daftar katalog mata kuliah di prodi Ilmu Hukum dong,daftar_matkul_jurusan
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Logika Informatika,analisis_statistik_matkul
+Matkul apa aja yang sering bikin mahasiswa Akuntansi ngulang semester?,tanya_matkul_tersulit
+Berapa banyak mahasiswa yang dapat nilai E dan D di Kalkulus II?,analisis_statistik_matkul
+Cek status tingkat kesulitan mata kuliah Pengantar Analisis Riil berdasarkan data,analisis_statistik_matkul
+strategi belajar Dasar Pemrograman,rekomendasi_cara_belajar
+daftar matkul Teknik Informatika,daftar_matkul_jurusan
+Mata kuliah apa saja yang ada di jurusan Kimia?,daftar_matkul_jurusan
+Bisa lihat rekapitulasi data nilai mata kuliah Kalkulus I ga kak?,analisis_statistik_matkul
+Spill mata kuliah tersulit di Fisika dong kak,tanya_matkul_tersulit
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Kalkulus I,analisis_statistik_matkul
+Halo apakah kamu bisa menganalisis nilai mahasiswa di kampus?,sapaan_dan_bantuan
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Basis Data",analisis_statistik_matkul
+matkul killer Kimia,tanya_matkul_tersulit
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Algoritma dan Pemrograman?,rekomendasi_cara_belajar
+cara cepat paham konsep Logika Informatika,rekomendasi_cara_belajar
+Beri saya panduan belajar mandiri untuk menghadapi ujian Logika Informatika,rekomendasi_cara_belajar
+Ada matkul horor ga di jurusan Ilmu Hukum yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+Tolong tampilkan daftar seluruh mata kuliah di prodi Kimia,daftar_matkul_jurusan
+Mata kuliah apa yang paling susah di jurusan Matematika?,tanya_matkul_tersulit
+tips belajar Algoritma dan Pemrograman,rekomendasi_cara_belajar
+Apa saja kurikulum dan mata kuliah wajib di jurusan Sistem Informasi?,daftar_matkul_jurusan
+"Di jurusan Teknik Informatika, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Sistem Informasi?,daftar_matkul_jurusan
+kurikulum prodi Teknik Elektro,daftar_matkul_jurusan
+Apakah mata kuliah Struktur Data di Akuntansi termasuk kategori sulit?,analisis_statistik_matkul
+Mata kuliah manakah di prodi Fisika yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Ada rekomendasi buku atau video tutorial buat belajar Fisika Dasar?,rekomendasi_cara_belajar
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Basis Data,analisis_statistik_matkul
+Spill katalog mata kuliah jurusan Sistem Informasi semester 1 sampai 8,daftar_matkul_jurusan
+Berapa banyak mahasiswa yang dapat nilai E dan D di Dasar Pemrograman?,analisis_statistik_matkul
+"Saya takut dapet nilai jelek di Basis Data, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+Mau liat daftar katalog mata kuliah di prodi Psikologi dong,daftar_matkul_jurusan
+matkul persentase D dan E tertinggi Ilmu Hukum,tanya_matkul_tersulit
+Ada tips belajar efektif buat mata kuliah Kalkulus II ga ya?,rekomendasi_cara_belajar
+Tingkat kelulusan di matkul Dasar Pemrograman beneran rendah ya min?,analisis_statistik_matkul
+Ada matkul horor ga di jurusan Kimia yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+Kak mau tanya matkul tersulit di program studi Akuntansi apa saja?,tanya_matkul_tersulit
+Ada tips belajar efektif buat mata kuliah Fisika Dasar ga ya?,rekomendasi_cara_belajar
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Logika Informatika?,rekomendasi_cara_belajar
+cara cepat paham konsep Jaringan Komputer,rekomendasi_cara_belajar
+matkul paling susah Psikologi,tanya_matkul_tersulit
+"Di jurusan Teknik Elektro, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+Matkul paling ditakuti sama mahasiswa baru di Psikologi apa aja?,tanya_matkul_tersulit
+Matkul wajib di program studi Teknik Informatika apa saja ya kak?,daftar_matkul_jurusan
+Berapa rata-rata nilai IP mahasiswa pada matkul Kalkulus II?,analisis_statistik_matkul
+Berapa banyak mahasiswa yang dapat nilai E dan D di Basis Data?,analisis_statistik_matkul
+Persentase nilai A B C D E di matkul Algoritma dan Pemrograman prodi Kimia berapa?,analisis_statistik_matkul
+Hai bot cerdas perkenalkan dirimu dong,sapaan_dan_bantuan
+rata-rata IP Logika Informatika,analisis_statistik_matkul
+Kenapa banyak mahasiswa Manajemen dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+Bagaimana cara belajar mata kuliah Jaringan Komputer agar dapat nilai A?,rekomendasi_cara_belajar
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Pengantar Analisis Riil?,rekomendasi_cara_belajar
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Kalkulus I,analisis_statistik_matkul
+Ada rekomendasi buku atau video tutorial buat belajar Pengantar Analisis Riil?,rekomendasi_cara_belajar
+Spill tips dapet nilai bagus di matkul Kalkulus II dong kak,rekomendasi_cara_belajar
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Struktur Data?,rekomendasi_cara_belajar
+Mata kuliah dengan persentase kegagalan tertinggi di Teknik Informatika apa ya?,tanya_matkul_tersulit
+Apa saja kurikulum dan mata kuliah wajib di jurusan Matematika?,daftar_matkul_jurusan
+Struktur kurikulum dan mata kuliah peminatan di Manajemen apa aja?,daftar_matkul_jurusan
+katalog matkul Matematika,daftar_matkul_jurusan
+Tolong tampilkan daftar seluruh mata kuliah di prodi Teknik Informatika,daftar_matkul_jurusan
+Spill tips dapet nilai bagus di matkul Dasar Pemrograman dong kak,rekomendasi_cara_belajar
+"Saya takut dapet nilai jelek di Jaringan Komputer, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Teknik Informatika?,tanya_matkul_tersulit
+Tolong tampilkan daftar seluruh mata kuliah di prodi Matematika,daftar_matkul_jurusan
+Berapa persentase kelulusan mata kuliah Logika Informatika di jurusan Akuntansi?,analisis_statistik_matkul
+Mata kuliah dengan persentase kegagalan tertinggi di Akuntansi apa ya?,tanya_matkul_tersulit
+katalog matkul Fisika,daftar_matkul_jurusan
+Mata kuliah manakah di prodi Teknik Elektro yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Matkul apa aja yang sering bikin mahasiswa Kimia ngulang semester?,tanya_matkul_tersulit
+Kak mau tanya matkul tersulit di program studi Teknik Informatika apa saja?,tanya_matkul_tersulit
+Apa saja kurikulum dan mata kuliah wajib di jurusan Teknik Informatika?,daftar_matkul_jurusan
+Bagaimana cara belajar mata kuliah Fisika Dasar agar dapat nilai A?,rekomendasi_cara_belajar
+Beri saya panduan belajar mandiri untuk menghadapi ujian Fisika Dasar,rekomendasi_cara_belajar
+Rata-rata IP mahasiswa di matkul Kalkulus I jurusan Ilmu Hukum berapa ya?,analisis_statistik_matkul
+Mata kuliah manakah di prodi Manajemen yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Ada matkul apa aja di semester awal jurusan Teknik Elektro?,daftar_matkul_jurusan
+Spill mata kuliah tersulit di Psikologi dong kak,tanya_matkul_tersulit
+Tips membagi waktu antara teori dan tugas besar pada matkul Logika Informatika,rekomendasi_cara_belajar
+Berapa total mahasiswa yang pernah menempuh mata kuliah Kalkulus I?,analisis_statistik_matkul
+Matkul wajib di program studi Teknik Elektro apa saja ya kak?,daftar_matkul_jurusan
+Mata kuliah manakah di prodi Ilmu Hukum yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+distribusi nilai Dasar Pemrograman,analisis_statistik_matkul
+Mata kuliah apa yang paling susah di jurusan Ilmu Hukum?,tanya_matkul_tersulit
+Langkah persiapan apa saja sebelum mengambil mata kuliah Struktur Data?,rekomendasi_cara_belajar
+Kak mau tanya matkul tersulit di program studi Fisika apa saja?,tanya_matkul_tersulit
+rekapitulasi nilai Algoritma dan Pemrograman Akuntansi,analisis_statistik_matkul
+list matkul jurusan Matematika,daftar_matkul_jurusan
+Matkul paling ditakuti sama mahasiswa baru di Manajemen apa aja?,tanya_matkul_tersulit
+Ada tips belajar efektif buat mata kuliah Pengantar Analisis Riil ga ya?,rekomendasi_cara_belajar
+Langkah persiapan apa saja sebelum mengambil mata kuliah Jaringan Komputer?,rekomendasi_cara_belajar
+Mata kuliah manakah di prodi Matematika yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Mau liat daftar katalog mata kuliah di prodi Akuntansi dong,daftar_matkul_jurusan
+Mata kuliah apa saja yang ada di jurusan Ilmu Hukum?,daftar_matkul_jurusan
+kurikulum prodi Ilmu Hukum,daftar_matkul_jurusan
+Matkul apa aja yang sering bikin mahasiswa Teknik Elektro ngulang semester?,tanya_matkul_tersulit
+Banyak yang ga lulus di matkul apa sih anak Psikologi?,tanya_matkul_tersulit
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Kalkulus II?,rekomendasi_cara_belajar
+Kenapa banyak mahasiswa Ilmu Hukum dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+Ada matkul apa aja di semester awal jurusan Ilmu Hukum?,daftar_matkul_jurusan
+Minta saran dong cara survive dan lulus di matkul Kalkulus I,rekomendasi_cara_belajar
+Tips membagi waktu antara teori dan tugas besar pada matkul Pengantar Analisis Riil,rekomendasi_cara_belajar
+distribusi nilai Basis Data,analisis_statistik_matkul
+Bisa kasih tips bagaimana cara lulus mata kuliah Kalkulus II tanpa mengulang?,rekomendasi_cara_belajar
+Spill mata kuliah tersulit di Kimia dong kak,tanya_matkul_tersulit
+matkul persentase D dan E tertinggi Psikologi,tanya_matkul_tersulit
+Spill tips dapet nilai bagus di matkul Algoritma dan Pemrograman dong kak,rekomendasi_cara_belajar
+Cek status tingkat kesulitan mata kuliah Fisika Dasar berdasarkan data,analisis_statistik_matkul
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Logika Informatika?,rekomendasi_cara_belajar
+Trik belajar dan latihan soal buat matkul Algoritma dan Pemrograman gimana ya?,rekomendasi_cara_belajar
+MK apa yang paling rawan dapet nilai D dan E di prodi Teknik Informatika?,tanya_matkul_tersulit
+Ada matkul horor ga di jurusan Matematika yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+Kenapa banyak mahasiswa Teknik Elektro dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+mata kuliah yang ada di Matematika,daftar_matkul_jurusan
+Tolong tampilkan daftar seluruh mata kuliah di prodi Sistem Informasi,daftar_matkul_jurusan
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Fisika Dasar,analisis_statistik_matkul
+tips belajar Basis Data,rekomendasi_cara_belajar
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Fisika Dasar?,rekomendasi_cara_belajar
+Tingkat kelulusan di matkul Pengantar Analisis Riil beneran rendah ya min?,analisis_statistik_matkul
+Mata kuliah manakah di prodi Akuntansi yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Berapa persen sih yang dapet A di mata kuliah Algoritma dan Pemrograman?,analisis_statistik_matkul
+Minta saran dong cara survive dan lulus di matkul Basis Data,rekomendasi_cara_belajar
+Matkul paling killer di jurusan Psikologi apaan ya min?,tanya_matkul_tersulit
+statistik nilai Jaringan Komputer,analisis_statistik_matkul
+Matkul paling ditakuti sama mahasiswa baru di Teknik Informatika apa aja?,tanya_matkul_tersulit
+Berapa banyak mahasiswa yang dapat nilai E dan D di Kalkulus I?,analisis_statistik_matkul
+rata-rata IP Pengantar Analisis Riil,analisis_statistik_matkul
+Ada matkul horor ga di jurusan Fisika yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+Mata kuliah dengan persentase kegagalan tertinggi di Teknik Elektro apa ya?,tanya_matkul_tersulit
+Ada tips belajar efektif buat mata kuliah Dasar Pemrograman ga ya?,rekomendasi_cara_belajar
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Ilmu Hukum?,daftar_matkul_jurusan
+Spill mata kuliah tersulit di Akuntansi dong kak,tanya_matkul_tersulit
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Logika Informatika",analisis_statistik_matkul
+Berapa persen sih yang dapet A di mata kuliah Kalkulus I?,analisis_statistik_matkul
+Bisa kasih tips bagaimana cara lulus mata kuliah Logika Informatika tanpa mengulang?,rekomendasi_cara_belajar
+persentase kelulusan Logika Informatika,analisis_statistik_matkul
+daftar matkul tersulit Matematika,tanya_matkul_tersulit
+Permisi mau konsultasi mengenai persiapan mata kuliah,sapaan_dan_bantuan
+Beri saya panduan belajar mandiri untuk menghadapi ujian Kalkulus I,rekomendasi_cara_belajar
+Berapa banyak mahasiswa yang dapat nilai E dan D di Struktur Data?,analisis_statistik_matkul
+cara lulus Struktur Data,rekomendasi_cara_belajar
+Cek dong berapa mahasiswa yang ngulang di matkul Pengantar Analisis Riil,analisis_statistik_matkul
+Selamat siang kak mau tanya-tanya seputar perkuliahan,sapaan_dan_bantuan
+Trik belajar dan latihan soal buat matkul Logika Informatika gimana ya?,rekomendasi_cara_belajar
+Bagaimana cara belajar mata kuliah Pengantar Analisis Riil agar dapat nilai A?,rekomendasi_cara_belajar
+panduan belajar materi Kalkulus II,rekomendasi_cara_belajar
+Berapa rata-rata nilai IP mahasiswa pada matkul Basis Data?,analisis_statistik_matkul
+matkul nilai E terbanyak di Ilmu Hukum,tanya_matkul_tersulit
+Persentase nilai A B C D E di matkul Struktur Data prodi Akuntansi berapa?,analisis_statistik_matkul
+mata kuliah yang ada di Manajemen,daftar_matkul_jurusan
+Berapa banyak mahasiswa yang dapat nilai E dan D di Jaringan Komputer?,analisis_statistik_matkul
+distribusi nilai Kalkulus I,analisis_statistik_matkul
+Beri saya panduan belajar mandiri untuk menghadapi ujian Dasar Pemrograman,rekomendasi_cara_belajar
+Mata kuliah manakah di prodi Sistem Informasi yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Ada matkul apa aja di semester awal jurusan Manajemen?,daftar_matkul_jurusan
+kurikulum prodi Sistem Informasi,daftar_matkul_jurusan
+Matkul wajib di program studi Akuntansi apa saja ya kak?,daftar_matkul_jurusan
+matkul killer Fisika,tanya_matkul_tersulit
+Langkah persiapan apa saja sebelum mengambil mata kuliah Algoritma dan Pemrograman?,rekomendasi_cara_belajar
+Matkul wajib di program studi Kimia apa saja ya kak?,daftar_matkul_jurusan
+Struktur kurikulum dan mata kuliah peminatan di Fisika apa aja?,daftar_matkul_jurusan
+Ada rekomendasi buku atau video tutorial buat belajar Kalkulus II?,rekomendasi_cara_belajar
+list matkul jurusan Psikologi,daftar_matkul_jurusan
+strategi belajar Kalkulus II,rekomendasi_cara_belajar
+Tips membagi waktu antara teori dan tugas besar pada matkul Fisika Dasar,rekomendasi_cara_belajar
+Bisa lihat rekapitulasi data nilai mata kuliah Jaringan Komputer ga kak?,analisis_statistik_matkul
+Banyak yang ga lulus di matkul apa sih anak Kimia?,tanya_matkul_tersulit
+MK apa yang paling rawan dapet nilai D dan E di prodi Kimia?,tanya_matkul_tersulit
+Spill katalog mata kuliah jurusan Akuntansi semester 1 sampai 8,daftar_matkul_jurusan
+list matkul jurusan Fisika,daftar_matkul_jurusan
+Spill katalog mata kuliah jurusan Psikologi semester 1 sampai 8,daftar_matkul_jurusan
+Tingkat kelulusan di matkul Logika Informatika beneran rendah ya min?,analisis_statistik_matkul
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Matematika?,tanya_matkul_tersulit
+Mata kuliah apa yang paling susah di jurusan Sistem Informasi?,tanya_matkul_tersulit
+Ada matkul horor ga di jurusan Akuntansi yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+daftar matkul Psikologi,daftar_matkul_jurusan
+cara lulus Pengantar Analisis Riil,rekomendasi_cara_belajar
+rata-rata IP Jaringan Komputer,analisis_statistik_matkul
+kurikulum prodi Teknik Informatika,daftar_matkul_jurusan
+Struktur kurikulum dan mata kuliah peminatan di Teknik Elektro apa aja?,daftar_matkul_jurusan
+Berapa rata-rata nilai IP mahasiswa pada matkul Jaringan Komputer?,analisis_statistik_matkul
+Matkul paling killer di jurusan Teknik Elektro apaan ya min?,tanya_matkul_tersulit
+Matkul apa aja yang sering bikin mahasiswa Fisika ngulang semester?,tanya_matkul_tersulit
+Matkul apa aja yang sering bikin mahasiswa Matematika ngulang semester?,tanya_matkul_tersulit
+matkul killer Sistem Informasi,tanya_matkul_tersulit
+Matkul wajib di program studi Matematika apa saja ya kak?,daftar_matkul_jurusan
+tips belajar Kalkulus II,rekomendasi_cara_belajar
+matkul nilai E terbanyak di Psikologi,tanya_matkul_tersulit
+Cek dong berapa mahasiswa yang ngulang di matkul Basis Data,analisis_statistik_matkul
+Tingkat kelulusan di matkul Jaringan Komputer beneran rendah ya min?,analisis_statistik_matkul
+matkul nilai E terbanyak di Sistem Informasi,tanya_matkul_tersulit
+Berapa total mahasiswa yang pernah menempuh mata kuliah Jaringan Komputer?,analisis_statistik_matkul
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Dasar Pemrograman,analisis_statistik_matkul
+Gimana cara memahami konsep materi Basis Data dari dasar min?,rekomendasi_cara_belajar
+Tingkat kelulusan di matkul Kalkulus II beneran rendah ya min?,analisis_statistik_matkul
+Matkul paling killer di jurusan Manajemen apaan ya min?,tanya_matkul_tersulit
+Cek dong berapa mahasiswa yang ngulang di matkul Fisika Dasar,analisis_statistik_matkul
+Gimana cara memahami konsep materi Logika Informatika dari dasar min?,rekomendasi_cara_belajar
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Fisika Dasar",analisis_statistik_matkul
+Langkah persiapan apa saja sebelum mengambil mata kuliah Fisika Dasar?,rekomendasi_cara_belajar
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Jaringan Komputer",analisis_statistik_matkul
+Mata kuliah apa saja yang ada di jurusan Teknik Elektro?,daftar_matkul_jurusan
+tips belajar Logika Informatika,rekomendasi_cara_belajar
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Kalkulus I?,rekomendasi_cara_belajar
+cara cepat paham konsep Fisika Dasar,rekomendasi_cara_belajar
+Mata kuliah apa yang paling susah di jurusan Akuntansi?,tanya_matkul_tersulit
+"Saya takut dapet nilai jelek di Pengantar Analisis Riil, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+Spill mata kuliah tersulit di Matematika dong kak,tanya_matkul_tersulit
+Minta saran dong cara survive dan lulus di matkul Kalkulus II,rekomendasi_cara_belajar
+Struktur kurikulum dan mata kuliah peminatan di Kimia apa aja?,daftar_matkul_jurusan
+Tingkat kelulusan di matkul Algoritma dan Pemrograman beneran rendah ya min?,analisis_statistik_matkul
+mata kuliah yang ada di Akuntansi,daftar_matkul_jurusan
+cara cepat paham konsep Kalkulus I,rekomendasi_cara_belajar
+Ada matkul apa aja di semester awal jurusan Matematika?,daftar_matkul_jurusan
+Bagaimana cara belajar mata kuliah Struktur Data agar dapat nilai A?,rekomendasi_cara_belajar
+Ada matkul apa aja di semester awal jurusan Kimia?,daftar_matkul_jurusan
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Fisika?,tanya_matkul_tersulit
+Tips membagi waktu antara teori dan tugas besar pada matkul Algoritma dan Pemrograman,rekomendasi_cara_belajar
+Tips membagi waktu antara teori dan tugas besar pada matkul Kalkulus I,rekomendasi_cara_belajar
+Apakah mata kuliah Algoritma dan Pemrograman di Akuntansi termasuk kategori sulit?,analisis_statistik_matkul
+Bisa kasih tips bagaimana cara lulus mata kuliah Fisika Dasar tanpa mengulang?,rekomendasi_cara_belajar
+daftar matkul tersulit Kimia,tanya_matkul_tersulit
+kurikulum prodi Fisika,daftar_matkul_jurusan
+Persentase nilai A B C D E di matkul Algoritma dan Pemrograman prodi Manajemen berapa?,analisis_statistik_matkul
+matkul paling susah Fisika,tanya_matkul_tersulit
+Kak mau tanya matkul tersulit di program studi Manajemen apa saja?,tanya_matkul_tersulit
+panduan belajar materi Jaringan Komputer,rekomendasi_cara_belajar
+Materi apa yang paling penting dipelajari terlebih dahulu di Basis Data?,rekomendasi_cara_belajar
+Mata kuliah dengan persentase kegagalan tertinggi di Psikologi apa ya?,tanya_matkul_tersulit
+Apakah mata kuliah Dasar Pemrograman di Teknik Informatika termasuk kategori sulit?,analisis_statistik_matkul
+daftar matkul tersulit Psikologi,tanya_matkul_tersulit
+Materi apa yang paling penting dipelajari terlebih dahulu di Kalkulus II?,rekomendasi_cara_belajar
+Ada tips belajar efektif buat mata kuliah Logika Informatika ga ya?,rekomendasi_cara_belajar
+Ada matkul horor ga di jurusan Psikologi yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+Mau liat daftar katalog mata kuliah di prodi Teknik Elektro dong,daftar_matkul_jurusan
+MK apa yang paling rawan dapet nilai D dan E di prodi Sistem Informasi?,tanya_matkul_tersulit
+Tolong list 5 mata kuliah tersulit di Manajemen berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Teknik Elektro?,daftar_matkul_jurusan
+Bisa kasih tips bagaimana cara lulus mata kuliah Pengantar Analisis Riil tanpa mengulang?,rekomendasi_cara_belajar
+Ada tips belajar efektif buat mata kuliah Jaringan Komputer ga ya?,rekomendasi_cara_belajar
+Mata kuliah apa yang paling susah di jurusan Teknik Informatika?,tanya_matkul_tersulit
+Halo asisten akademik saya butuh bantuan untuk konsultasi nilai,sapaan_dan_bantuan
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Jaringan Komputer?,rekomendasi_cara_belajar
+Struktur kurikulum dan mata kuliah peminatan di Akuntansi apa aja?,daftar_matkul_jurusan
+cara cepat paham konsep Pengantar Analisis Riil,rekomendasi_cara_belajar
+Materi apa yang paling penting dipelajari terlebih dahulu di Jaringan Komputer?,rekomendasi_cara_belajar
+Mata kuliah apa saja yang ada di jurusan Teknik Informatika?,daftar_matkul_jurusan
+MK apa yang paling rawan dapet nilai D dan E di prodi Ilmu Hukum?,tanya_matkul_tersulit
+Minta saran dong cara survive dan lulus di matkul Jaringan Komputer,rekomendasi_cara_belajar
+Apa saja kurikulum dan mata kuliah wajib di jurusan Akuntansi?,daftar_matkul_jurusan
+rekapitulasi nilai Jaringan Komputer Manajemen,analisis_statistik_matkul
+Materi apa yang paling penting dipelajari terlebih dahulu di Fisika Dasar?,rekomendasi_cara_belajar
+Ada rekomendasi buku atau video tutorial buat belajar Jaringan Komputer?,rekomendasi_cara_belajar
+rata-rata IP Dasar Pemrograman,analisis_statistik_matkul
+Matkul paling ditakuti sama mahasiswa baru di Kimia apa aja?,tanya_matkul_tersulit
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Algoritma dan Pemrograman",analisis_statistik_matkul
+Tes bot apakah sistem aktif dan online?,sapaan_dan_bantuan
+Info daftar mata kuliah yang ditawarkan pada jurusan Fisika,daftar_matkul_jurusan
+statistik nilai Pengantar Analisis Riil,analisis_statistik_matkul
+Beri saya panduan belajar mandiri untuk menghadapi ujian Jaringan Komputer,rekomendasi_cara_belajar
+Cek status tingkat kesulitan mata kuliah Algoritma dan Pemrograman berdasarkan data,analisis_statistik_matkul
+Trik belajar dan latihan soal buat matkul Basis Data gimana ya?,rekomendasi_cara_belajar
+Ada rekomendasi buku atau video tutorial buat belajar Kalkulus I?,rekomendasi_cara_belajar
+Matkul apa aja yang sering bikin mahasiswa Ilmu Hukum ngulang semester?,tanya_matkul_tersulit
+Beri saya panduan belajar mandiri untuk menghadapi ujian Kalkulus II,rekomendasi_cara_belajar
+matkul persentase D dan E tertinggi Manajemen,tanya_matkul_tersulit
+Halo salam kenal ya asisten kampus,sapaan_dan_bantuan
+Ada matkul apa aja di semester awal jurusan Fisika?,daftar_matkul_jurusan
+Banyak yang ga lulus di matkul apa sih anak Sistem Informasi?,tanya_matkul_tersulit
+Kenapa banyak mahasiswa Akuntansi dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+Tolong tampilkan daftar seluruh mata kuliah di prodi Akuntansi,daftar_matkul_jurusan
+strategi belajar Basis Data,rekomendasi_cara_belajar
+Banyak yang ga lulus di matkul apa sih anak Teknik Informatika?,tanya_matkul_tersulit
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Fisika Dasar,analisis_statistik_matkul
+Spill katalog mata kuliah jurusan Ilmu Hukum semester 1 sampai 8,daftar_matkul_jurusan
+Apa saja kurikulum dan mata kuliah wajib di jurusan Ilmu Hukum?,daftar_matkul_jurusan
+Info daftar mata kuliah yang ditawarkan pada jurusan Manajemen,daftar_matkul_jurusan
+matkul nilai E terbanyak di Akuntansi,tanya_matkul_tersulit
+Trik belajar dan latihan soal buat matkul Fisika Dasar gimana ya?,rekomendasi_cara_belajar
+cara lulus Jaringan Komputer,rekomendasi_cara_belajar
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Struktur Data,analisis_statistik_matkul
+katalog matkul Ilmu Hukum,daftar_matkul_jurusan
+Matkul paling ditakuti sama mahasiswa baru di Akuntansi apa aja?,tanya_matkul_tersulit
+Tolong list 5 mata kuliah tersulit di Kimia berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+Mata kuliah apa saja yang ada di jurusan Akuntansi?,daftar_matkul_jurusan
+Struktur kurikulum dan mata kuliah peminatan di Ilmu Hukum apa aja?,daftar_matkul_jurusan
+daftar matkul tersulit Manajemen,tanya_matkul_tersulit
+Bisa lihat rekapitulasi data nilai mata kuliah Logika Informatika ga kak?,analisis_statistik_matkul
+Berapa persen sih yang dapet A di mata kuliah Dasar Pemrograman?,analisis_statistik_matkul
+mata kuliah yang ada di Fisika,daftar_matkul_jurusan
+Apa fungsi dan kemampuan dari AI Agentic Campus ini?,sapaan_dan_bantuan
+statistik nilai Fisika Dasar,analisis_statistik_matkul
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Kalkulus II?,rekomendasi_cara_belajar
+tips belajar Struktur Data,rekomendasi_cara_belajar
+daftar matkul Ilmu Hukum,daftar_matkul_jurusan
+Matkul paling ditakuti sama mahasiswa baru di Matematika apa aja?,tanya_matkul_tersulit
+Cek dong berapa mahasiswa yang ngulang di matkul Struktur Data,analisis_statistik_matkul
+Matkul paling ditakuti sama mahasiswa baru di Teknik Elektro apa aja?,tanya_matkul_tersulit
+daftar matkul Kimia,daftar_matkul_jurusan
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Kalkulus I?,rekomendasi_cara_belajar
+Matkul paling killer di jurusan Akuntansi apaan ya min?,tanya_matkul_tersulit
+matkul nilai E terbanyak di Matematika,tanya_matkul_tersulit
+Apa saja kurikulum dan mata kuliah wajib di jurusan Manajemen?,daftar_matkul_jurusan
+Ada rekomendasi buku atau video tutorial buat belajar Algoritma dan Pemrograman?,rekomendasi_cara_belajar
+kurikulum prodi Matematika,daftar_matkul_jurusan
+Matkul paling killer di jurusan Matematika apaan ya min?,tanya_matkul_tersulit
+Trik belajar dan latihan soal buat matkul Dasar Pemrograman gimana ya?,rekomendasi_cara_belajar
+tips belajar Fisika Dasar,rekomendasi_cara_belajar
+Spill mata kuliah tersulit di Manajemen dong kak,tanya_matkul_tersulit
+persentase kelulusan Kalkulus II,analisis_statistik_matkul
+matkul killer Akuntansi,tanya_matkul_tersulit
+"Di jurusan Psikologi, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+Cek dong berapa mahasiswa yang ngulang di matkul Logika Informatika,analisis_statistik_matkul
+"Saya takut dapet nilai jelek di Dasar Pemrograman, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Jaringan Komputer?,rekomendasi_cara_belajar
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Akuntansi?,daftar_matkul_jurusan
+Persentase nilai A B C D E di matkul Dasar Pemrograman prodi Sistem Informasi berapa?,analisis_statistik_matkul
+Materi apa yang paling penting dipelajari terlebih dahulu di Algoritma dan Pemrograman?,rekomendasi_cara_belajar
+rata-rata IP Fisika Dasar,analisis_statistik_matkul
+matkul paling susah Kimia,tanya_matkul_tersulit
+Tolong list 5 mata kuliah tersulit di Ilmu Hukum berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+Cek status tingkat kesulitan mata kuliah Logika Informatika berdasarkan data,analisis_statistik_matkul
+Tips membagi waktu antara teori dan tugas besar pada matkul Kalkulus II,rekomendasi_cara_belajar
+Bisa kasih tips bagaimana cara lulus mata kuliah Basis Data tanpa mengulang?,rekomendasi_cara_belajar
+MK apa yang paling rawan dapet nilai D dan E di prodi Fisika?,tanya_matkul_tersulit
+daftar matkul Fisika,daftar_matkul_jurusan
+matkul nilai E terbanyak di Fisika,tanya_matkul_tersulit
+tips belajar Pengantar Analisis Riil,rekomendasi_cara_belajar
+Cek status tingkat kesulitan mata kuliah Dasar Pemrograman berdasarkan data,analisis_statistik_matkul
+Kenapa banyak mahasiswa Sistem Informasi dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+statistik nilai Algoritma dan Pemrograman,analisis_statistik_matkul
+Minta saran dong cara survive dan lulus di matkul Algoritma dan Pemrograman,rekomendasi_cara_belajar
+Bisa kasih tips bagaimana cara lulus mata kuliah Kalkulus I tanpa mengulang?,rekomendasi_cara_belajar
+Matkul paling killer di jurusan Sistem Informasi apaan ya min?,tanya_matkul_tersulit
+Cek dong berapa mahasiswa yang ngulang di matkul Jaringan Komputer,analisis_statistik_matkul
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Algoritma dan Pemrograman?,rekomendasi_cara_belajar
+Gimana cara memahami konsep materi Dasar Pemrograman dari dasar min?,rekomendasi_cara_belajar
+Tingkat kelulusan di matkul Fisika Dasar beneran rendah ya min?,analisis_statistik_matkul
+Tolong tampilkan daftar seluruh mata kuliah di prodi Ilmu Hukum,daftar_matkul_jurusan
+katalog matkul Kimia,daftar_matkul_jurusan
+matkul persentase D dan E tertinggi Teknik Informatika,tanya_matkul_tersulit
+Berapa total mahasiswa yang pernah menempuh mata kuliah Struktur Data?,analisis_statistik_matkul
+Matkul wajib di program studi Psikologi apa saja ya kak?,daftar_matkul_jurusan
+Berapa banyak mahasiswa yang dapat nilai E dan D di Logika Informatika?,analisis_statistik_matkul
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Kimia?,tanya_matkul_tersulit
+daftar matkul tersulit Teknik Informatika,tanya_matkul_tersulit
+Trik belajar dan latihan soal buat matkul Kalkulus II gimana ya?,rekomendasi_cara_belajar
+Matkul wajib di program studi Ilmu Hukum apa saja ya kak?,daftar_matkul_jurusan
+distribusi nilai Fisika Dasar,analisis_statistik_matkul
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Logika Informatika,analisis_statistik_matkul
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Struktur Data,analisis_statistik_matkul
+Matkul wajib di program studi Sistem Informasi apa saja ya kak?,daftar_matkul_jurusan
+Bisa lihat rekapitulasi data nilai mata kuliah Basis Data ga kak?,analisis_statistik_matkul
+Mata kuliah apa yang paling susah di jurusan Manajemen?,tanya_matkul_tersulit
+Halo apa kabar agen cerdas kampus?,sapaan_dan_bantuan
+Matkul apa aja yang sering bikin mahasiswa Manajemen ngulang semester?,tanya_matkul_tersulit
+Makasih banyak ya infonya sangat membantu,sapaan_dan_bantuan
+Info daftar mata kuliah yang ditawarkan pada jurusan Psikologi,daftar_matkul_jurusan
+matkul nilai E terbanyak di Teknik Elektro,tanya_matkul_tersulit
+Matkul paling killer di jurusan Ilmu Hukum apaan ya min?,tanya_matkul_tersulit
+Matkul apa aja yang sering bikin mahasiswa Psikologi ngulang semester?,tanya_matkul_tersulit
+mata kuliah yang ada di Teknik Informatika,daftar_matkul_jurusan
+daftar matkul Teknik Elektro,daftar_matkul_jurusan
+Mata kuliah apa yang paling susah di jurusan Fisika?,tanya_matkul_tersulit
+statistik nilai Kalkulus II,analisis_statistik_matkul
+Info daftar mata kuliah yang ditawarkan pada jurusan Matematika,daftar_matkul_jurusan
+Ada rekomendasi buku atau video tutorial buat belajar Logika Informatika?,rekomendasi_cara_belajar
+daftar matkul Manajemen,daftar_matkul_jurusan
+Bisa kasih tips bagaimana cara lulus mata kuliah Struktur Data tanpa mengulang?,rekomendasi_cara_belajar
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Ilmu Hukum?,tanya_matkul_tersulit
+Bisa kasih tips bagaimana cara lulus mata kuliah Dasar Pemrograman tanpa mengulang?,rekomendasi_cara_belajar
+Tingkat kelulusan di matkul Kalkulus I beneran rendah ya min?,analisis_statistik_matkul
+Minta saran dong cara survive dan lulus di matkul Dasar Pemrograman,rekomendasi_cara_belajar
+Spill mata kuliah tersulit di Ilmu Hukum dong kak,tanya_matkul_tersulit
+Mata kuliah apa saja yang ada di jurusan Manajemen?,daftar_matkul_jurusan
+Beri saya panduan belajar mandiri untuk menghadapi ujian Struktur Data,rekomendasi_cara_belajar
+Apakah mata kuliah Basis Data di Sistem Informasi termasuk kategori sulit?,analisis_statistik_matkul
+Kenapa banyak mahasiswa Teknik Informatika dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+cara lulus Fisika Dasar,rekomendasi_cara_belajar
+Minta saran dong cara survive dan lulus di matkul Pengantar Analisis Riil,rekomendasi_cara_belajar
+"Di jurusan Sistem Informasi, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+matkul paling susah Sistem Informasi,tanya_matkul_tersulit
+Ada tips belajar efektif buat mata kuliah Basis Data ga ya?,rekomendasi_cara_belajar
+katalog matkul Manajemen,daftar_matkul_jurusan
+strategi belajar Fisika Dasar,rekomendasi_cara_belajar
+strategi belajar Kalkulus I,rekomendasi_cara_belajar
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Kalkulus II",analisis_statistik_matkul
+katalog matkul Sistem Informasi,daftar_matkul_jurusan
+matkul nilai E terbanyak di Manajemen,tanya_matkul_tersulit
+Mau liat daftar katalog mata kuliah di prodi Matematika dong,daftar_matkul_jurusan
+Tolong list 5 mata kuliah tersulit di Sistem Informasi berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+distribusi nilai Logika Informatika,analisis_statistik_matkul
+matkul persentase D dan E tertinggi Kimia,tanya_matkul_tersulit
+Mau liat daftar katalog mata kuliah di prodi Kimia dong,daftar_matkul_jurusan
+Struktur kurikulum dan mata kuliah peminatan di Matematika apa aja?,daftar_matkul_jurusan
+Bisa lihat rekapitulasi data nilai mata kuliah Struktur Data ga kak?,analisis_statistik_matkul
+Berapa total mahasiswa yang pernah menempuh mata kuliah Pengantar Analisis Riil?,analisis_statistik_matkul
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Pengantar Analisis Riil,analisis_statistik_matkul
+katalog matkul Akuntansi,daftar_matkul_jurusan
+Ada matkul apa aja di semester awal jurusan Teknik Informatika?,daftar_matkul_jurusan
+Struktur kurikulum dan mata kuliah peminatan di Teknik Informatika apa aja?,daftar_matkul_jurusan
+Mata kuliah dengan persentase kegagalan tertinggi di Sistem Informasi apa ya?,tanya_matkul_tersulit
+list matkul jurusan Akuntansi,daftar_matkul_jurusan
+matkul killer Psikologi,tanya_matkul_tersulit
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Struktur Data",analisis_statistik_matkul
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Kalkulus II,analisis_statistik_matkul
+matkul killer Matematika,tanya_matkul_tersulit
+Trik belajar dan latihan soal buat matkul Pengantar Analisis Riil gimana ya?,rekomendasi_cara_belajar
+matkul persentase D dan E tertinggi Fisika,tanya_matkul_tersulit
+Cek status tingkat kesulitan mata kuliah Jaringan Komputer berdasarkan data,analisis_statistik_matkul
+cara lulus Dasar Pemrograman,rekomendasi_cara_belajar
+panduan belajar materi Struktur Data,rekomendasi_cara_belajar
+Info daftar mata kuliah yang ditawarkan pada jurusan Teknik Elektro,daftar_matkul_jurusan
+statistik nilai Dasar Pemrograman,analisis_statistik_matkul
+matkul paling susah Matematika,tanya_matkul_tersulit
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Algoritma dan Pemrograman,analisis_statistik_matkul
+Cek status tingkat kesulitan mata kuliah Basis Data berdasarkan data,analisis_statistik_matkul
+MK apa yang paling rawan dapet nilai D dan E di prodi Teknik Elektro?,tanya_matkul_tersulit
+Minta saran dong cara survive dan lulus di matkul Logika Informatika,rekomendasi_cara_belajar
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Jaringan Komputer,analisis_statistik_matkul
+Tolong tampilkan daftar seluruh mata kuliah di prodi Manajemen,daftar_matkul_jurusan
+Banyak yang ga lulus di matkul apa sih anak Fisika?,tanya_matkul_tersulit
+Berapa rata-rata nilai IP mahasiswa pada matkul Logika Informatika?,analisis_statistik_matkul
+Berapa rata-rata nilai IP mahasiswa pada matkul Fisika Dasar?,analisis_statistik_matkul
+Mata kuliah apa saja yang ada di jurusan Matematika?,daftar_matkul_jurusan
+rata-rata IP Basis Data,analisis_statistik_matkul
+Kak mau tanya matkul tersulit di program studi Kimia apa saja?,tanya_matkul_tersulit
+MK apa yang paling rawan dapet nilai D dan E di prodi Manajemen?,tanya_matkul_tersulit
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Algoritma dan Pemrograman,analisis_statistik_matkul
+katalog matkul Psikologi,daftar_matkul_jurusan
+MK apa yang paling rawan dapet nilai D dan E di prodi Akuntansi?,tanya_matkul_tersulit
+Kenapa banyak mahasiswa Fisika dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+matkul paling susah Teknik Elektro,tanya_matkul_tersulit
+Berapa persentase kelulusan mata kuliah Struktur Data di jurusan Matematika?,analisis_statistik_matkul
+list matkul jurusan Sistem Informasi,daftar_matkul_jurusan
+Bagaimana cara belajar mata kuliah Basis Data agar dapat nilai A?,rekomendasi_cara_belajar
+Ada matkul apa aja di semester awal jurusan Sistem Informasi?,daftar_matkul_jurusan
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Kimia?,daftar_matkul_jurusan
+Mata kuliah apa yang paling susah di jurusan Psikologi?,tanya_matkul_tersulit
+Apa saja kurikulum dan mata kuliah wajib di jurusan Fisika?,daftar_matkul_jurusan
+"Di jurusan Ilmu Hukum, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+Berapa persen sih yang dapet A di mata kuliah Kalkulus II?,analisis_statistik_matkul
+Gimana cara memahami konsep materi Struktur Data dari dasar min?,rekomendasi_cara_belajar
+Trik belajar dan latihan soal buat matkul Struktur Data gimana ya?,rekomendasi_cara_belajar
+list matkul jurusan Kimia,daftar_matkul_jurusan
+statistik nilai Struktur Data,analisis_statistik_matkul
+distribusi nilai Kalkulus II,analisis_statistik_matkul
+Beri saya panduan belajar mandiri untuk menghadapi ujian Algoritma dan Pemrograman,rekomendasi_cara_belajar
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Basis Data?,rekomendasi_cara_belajar
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Pengantar Analisis Riil,analisis_statistik_matkul
+matkul paling susah Teknik Informatika,tanya_matkul_tersulit
+Tolong tampilkan daftar seluruh mata kuliah di prodi Teknik Elektro,daftar_matkul_jurusan
+Spill katalog mata kuliah jurusan Teknik Elektro semester 1 sampai 8,daftar_matkul_jurusan
+Bisa lihat rekapitulasi data nilai mata kuliah Kalkulus II ga kak?,analisis_statistik_matkul
+Matkul paling ditakuti sama mahasiswa baru di Sistem Informasi apa aja?,tanya_matkul_tersulit
+Matkul paling ditakuti sama mahasiswa baru di Ilmu Hukum apa aja?,tanya_matkul_tersulit
+distribusi nilai Algoritma dan Pemrograman,analisis_statistik_matkul
+daftar matkul Akuntansi,daftar_matkul_jurusan
+persentase kelulusan Dasar Pemrograman,analisis_statistik_matkul
+Tips membagi waktu antara teori dan tugas besar pada matkul Jaringan Komputer,rekomendasi_cara_belajar
+Cek dong berapa mahasiswa yang ngulang di matkul Algoritma dan Pemrograman,analisis_statistik_matkul
+Gimana cara dapet nilai maksimal pas praktikum dan ujian Dasar Pemrograman?,rekomendasi_cara_belajar
+daftar matkul tersulit Ilmu Hukum,tanya_matkul_tersulit
+Tolong list 5 mata kuliah tersulit di Fisika berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+Mau liat daftar katalog mata kuliah di prodi Fisika dong,daftar_matkul_jurusan
+Matkul paling ditakuti sama mahasiswa baru di Fisika apa aja?,tanya_matkul_tersulit
+katalog matkul Teknik Informatika,daftar_matkul_jurusan
+matkul persentase D dan E tertinggi Sistem Informasi,tanya_matkul_tersulit
+Materi apa yang paling penting dipelajari terlebih dahulu di Pengantar Analisis Riil?,rekomendasi_cara_belajar
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Struktur Data?,rekomendasi_cara_belajar
+Berapa persentase kelulusan mata kuliah Basis Data di jurusan Manajemen?,analisis_statistik_matkul
+Tolong list 5 mata kuliah tersulit di Matematika berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+daftar matkul tersulit Fisika,tanya_matkul_tersulit
+Bagaimana cara belajar mata kuliah Algoritma dan Pemrograman agar dapat nilai A?,rekomendasi_cara_belajar
+Apakah mata kuliah Kalkulus I di Kimia termasuk kategori sulit?,analisis_statistik_matkul
+"Saya takut dapet nilai jelek di Logika Informatika, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+Berapa rata-rata nilai IP mahasiswa pada matkul Kalkulus I?,analisis_statistik_matkul
+Spill katalog mata kuliah jurusan Teknik Informatika semester 1 sampai 8,daftar_matkul_jurusan
+Tolong list 5 mata kuliah tersulit di Akuntansi berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+Berapa persentase kelulusan mata kuliah Kalkulus II di jurusan Akuntansi?,analisis_statistik_matkul
+Mata kuliah apa saja yang ada di jurusan Sistem Informasi?,daftar_matkul_jurusan
+rekapitulasi nilai Kalkulus I Fisika,analisis_statistik_matkul
+Spill tips dapet nilai bagus di matkul Pengantar Analisis Riil dong kak,rekomendasi_cara_belajar
+Info daftar mata kuliah yang ditawarkan pada jurusan Ilmu Hukum,daftar_matkul_jurusan
+Info daftar mata kuliah yang ditawarkan pada jurusan Kimia,daftar_matkul_jurusan
+Info daftar mata kuliah yang ditawarkan pada jurusan Akuntansi,daftar_matkul_jurusan
+Tolong tampilkan daftar seluruh mata kuliah di prodi Psikologi,daftar_matkul_jurusan
+panduan belajar materi Logika Informatika,rekomendasi_cara_belajar
+mata kuliah yang ada di Teknik Elektro,daftar_matkul_jurusan
+Berapa total mahasiswa yang pernah menempuh mata kuliah Logika Informatika?,analisis_statistik_matkul
+Beri saya panduan belajar mandiri untuk menghadapi ujian Basis Data,rekomendasi_cara_belajar
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Matematika?,daftar_matkul_jurusan
+"Tampilkan distribusi nilai A, B, C, D, dan E untuk Kalkulus I",analisis_statistik_matkul
+Bisa lihat rekapitulasi data nilai mata kuliah Pengantar Analisis Riil ga kak?,analisis_statistik_matkul
+MK apa yang paling rawan dapet nilai D dan E di prodi Matematika?,tanya_matkul_tersulit
+Ada tips belajar efektif buat mata kuliah Algoritma dan Pemrograman ga ya?,rekomendasi_cara_belajar
+kurikulum prodi Psikologi,daftar_matkul_jurusan
+strategi belajar Struktur Data,rekomendasi_cara_belajar
+Ada tips belajar efektif buat mata kuliah Struktur Data ga ya?,rekomendasi_cara_belajar
+Mata kuliah apa saja yang ada di jurusan Psikologi?,daftar_matkul_jurusan
+Ada rekomendasi buku atau video tutorial buat belajar Basis Data?,rekomendasi_cara_belajar
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Dasar Pemrograman,analisis_statistik_matkul
+Spill katalog mata kuliah jurusan Manajemen semester 1 sampai 8,daftar_matkul_jurusan
+tips belajar Jaringan Komputer,rekomendasi_cara_belajar
+Gimana cara memahami konsep materi Jaringan Komputer dari dasar min?,rekomendasi_cara_belajar
+Bisa kasih tips bagaimana cara lulus mata kuliah Algoritma dan Pemrograman tanpa mengulang?,rekomendasi_cara_belajar
+strategi belajar Logika Informatika,rekomendasi_cara_belajar
+panduan belajar materi Fisika Dasar,rekomendasi_cara_belajar
+Minta saran dong cara survive dan lulus di matkul Fisika Dasar,rekomendasi_cara_belajar
+list matkul jurusan Ilmu Hukum,daftar_matkul_jurusan
+Apa saja kurikulum dan mata kuliah wajib di jurusan Psikologi?,daftar_matkul_jurusan
+Rata-rata IP mahasiswa di matkul Fisika Dasar jurusan Sistem Informasi berapa ya?,analisis_statistik_matkul
+Tips membagi waktu antara teori dan tugas besar pada matkul Basis Data,rekomendasi_cara_belajar
+Berapa total mahasiswa yang pernah menempuh mata kuliah Algoritma dan Pemrograman?,analisis_statistik_matkul
+"Halo bot, kamu bisa membantu saya apa saja di kampus ini?",sapaan_dan_bantuan
+list matkul jurusan Manajemen,daftar_matkul_jurusan
+Info daftar mata kuliah yang ditawarkan pada jurusan Teknik Informatika,daftar_matkul_jurusan
+Mau liat daftar katalog mata kuliah di prodi Manajemen dong,daftar_matkul_jurusan
+Ada matkul apa aja di semester awal jurusan Psikologi?,daftar_matkul_jurusan
+persentase kelulusan Struktur Data,analisis_statistik_matkul
+rekapitulasi nilai Algoritma dan Pemrograman Kimia,analisis_statistik_matkul
+Ada matkul horor ga di jurusan Manajemen yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+"Saya takut dapet nilai jelek di Algoritma dan Pemrograman, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+matkul paling susah Akuntansi,tanya_matkul_tersulit
+Cek status tingkat kesulitan mata kuliah Kalkulus II berdasarkan data,analisis_statistik_matkul
+"Di jurusan Manajemen, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+statistik nilai Basis Data,analisis_statistik_matkul
+matkul nilai E terbanyak di Teknik Informatika,tanya_matkul_tersulit
+Mau liat daftar katalog mata kuliah di prodi Sistem Informasi dong,daftar_matkul_jurusan
+Ada matkul apa aja di semester awal jurusan Akuntansi?,daftar_matkul_jurusan
+kurikulum prodi Akuntansi,daftar_matkul_jurusan
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Manajemen?,tanya_matkul_tersulit
+rata-rata IP Kalkulus I,analisis_statistik_matkul
+"Saya takut dapet nilai jelek di Kalkulus I, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+rekapitulasi nilai Dasar Pemrograman Fisika,analisis_statistik_matkul
+Berapa persen sih yang dapet A di mata kuliah Pengantar Analisis Riil?,analisis_statistik_matkul
+persentase kelulusan Kalkulus I,analisis_statistik_matkul
+Matkul wajib di program studi Fisika apa saja ya kak?,daftar_matkul_jurusan
+Bagaimana cara belajar mata kuliah Logika Informatika agar dapat nilai A?,rekomendasi_cara_belajar
+cara cepat paham konsep Algoritma dan Pemrograman,rekomendasi_cara_belajar
+cara cepat paham konsep Basis Data,rekomendasi_cara_belajar
+Mau liat daftar katalog mata kuliah di prodi Teknik Informatika dong,daftar_matkul_jurusan
+Spill tips dapet nilai bagus di matkul Basis Data dong kak,rekomendasi_cara_belajar
+Mata kuliah apa yang paling susah di jurusan Kimia?,tanya_matkul_tersulit
+mata kuliah yang ada di Psikologi,daftar_matkul_jurusan
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Fisika?,daftar_matkul_jurusan
+distribusi nilai Struktur Data,analisis_statistik_matkul
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Psikologi?,tanya_matkul_tersulit
+rekapitulasi nilai Basis Data Ilmu Hukum,analisis_statistik_matkul
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Kalkulus II,analisis_statistik_matkul
+Persentase nilai A B C D E di matkul Struktur Data prodi Fisika berapa?,analisis_statistik_matkul
+Matkul apa aja yang sering bikin mahasiswa Sistem Informasi ngulang semester?,tanya_matkul_tersulit
+"Di jurusan Matematika, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+Bagaimana cara belajar mata kuliah Kalkulus I agar dapat nilai A?,rekomendasi_cara_belajar
+Mata kuliah manakah di prodi Kimia yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Spill mata kuliah tersulit di Sistem Informasi dong kak,tanya_matkul_tersulit
+Matkul wajib di program studi Manajemen apa saja ya kak?,daftar_matkul_jurusan
+Ada tips belajar efektif buat mata kuliah Kalkulus I ga ya?,rekomendasi_cara_belajar
+Bisa lihat rekapitulasi data nilai mata kuliah Algoritma dan Pemrograman ga kak?,analisis_statistik_matkul
+strategi belajar Jaringan Komputer,rekomendasi_cara_belajar
+Bisa kasih tips bagaimana cara lulus mata kuliah Jaringan Komputer tanpa mengulang?,rekomendasi_cara_belajar
+Berapa rata-rata nilai IP mahasiswa pada matkul Struktur Data?,analisis_statistik_matkul
+cara cepat paham konsep Kalkulus II,rekomendasi_cara_belajar
+Tolong tampilkan daftar seluruh mata kuliah di prodi Fisika,daftar_matkul_jurusan
+Persentase nilai A B C D E di matkul Fisika Dasar prodi Teknik Informatika berapa?,analisis_statistik_matkul
+Mata kuliah manakah di prodi Psikologi yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Mata kuliah dengan persentase kegagalan tertinggi di Matematika apa ya?,tanya_matkul_tersulit
+Rata-rata IP mahasiswa di matkul Fisika Dasar jurusan Fisika berapa ya?,analisis_statistik_matkul
+Struktur kurikulum dan mata kuliah peminatan di Psikologi apa aja?,daftar_matkul_jurusan
+Tolong list 5 mata kuliah tersulit di Psikologi berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+mata kuliah yang ada di Kimia,daftar_matkul_jurusan
+Tampilkan grafik atau sebaran perolehan nilai mata kuliah Basis Data,analisis_statistik_matkul
+Mata kuliah dengan persentase kegagalan tertinggi di Kimia apa ya?,tanya_matkul_tersulit
+Matkul paling killer di jurusan Kimia apaan ya min?,tanya_matkul_tersulit
+matkul paling susah Ilmu Hukum,tanya_matkul_tersulit
+Matkul apa aja yang sering bikin mahasiswa Teknik Informatika ngulang semester?,tanya_matkul_tersulit
+Bisa lihat rekapitulasi data nilai mata kuliah Dasar Pemrograman ga kak?,analisis_statistik_matkul
+strategi belajar Pengantar Analisis Riil,rekomendasi_cara_belajar
+daftar matkul tersulit Sistem Informasi,tanya_matkul_tersulit
+Spill tips dapet nilai bagus di matkul Logika Informatika dong kak,rekomendasi_cara_belajar
+Kenapa banyak mahasiswa Matematika dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+Langkah persiapan apa saja sebelum mengambil mata kuliah Basis Data?,rekomendasi_cara_belajar
+Bagaimanakah strategi pembelajaran yang efektif untuk menguasai materi Dasar Pemrograman?,rekomendasi_cara_belajar
+Gimana cara memahami konsep materi Kalkulus II dari dasar min?,rekomendasi_cara_belajar
+Cek dong berapa mahasiswa yang ngulang di matkul Kalkulus I,analisis_statistik_matkul
+Berapa persen sih yang dapet A di mata kuliah Fisika Dasar?,analisis_statistik_matkul
+Selamat malam asisten akademik kampus,sapaan_dan_bantuan
+Beri saya panduan belajar mandiri untuk menghadapi ujian Pengantar Analisis Riil,rekomendasi_cara_belajar
+Bagaimana cara belajar mata kuliah Kalkulus II agar dapat nilai A?,rekomendasi_cara_belajar
+matkul killer Teknik Elektro,tanya_matkul_tersulit
+persentase kelulusan Algoritma dan Pemrograman,analisis_statistik_matkul
+Berapa persentase kelulusan mata kuliah Kalkulus II di jurusan Teknik Informatika?,analisis_statistik_matkul
+Rata-rata IP mahasiswa di matkul Kalkulus I jurusan Teknik Elektro berapa ya?,analisis_statistik_matkul
+Banyak yang ga lulus di matkul apa sih anak Manajemen?,tanya_matkul_tersulit
+rata-rata IP Algoritma dan Pemrograman,analisis_statistik_matkul
+panduan belajar materi Pengantar Analisis Riil,rekomendasi_cara_belajar
+Mata kuliah apa yang paling susah di jurusan Teknik Elektro?,tanya_matkul_tersulit
+kurikulum prodi Kimia,daftar_matkul_jurusan
+persentase kelulusan Jaringan Komputer,analisis_statistik_matkul
+Ada matkul horor ga di jurusan Teknik Informatika yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+Bagaimana cara belajar mata kuliah Dasar Pemrograman agar dapat nilai A?,rekomendasi_cara_belajar
+"Di jurusan Kimia, matkul apa yang banyak dapet nilai E?",tanya_matkul_tersulit
+Berapa total mahasiswa yang pernah menempuh mata kuliah Dasar Pemrograman?,analisis_statistik_matkul
+Berapa banyak mahasiswa yang dapat nilai E dan D di Algoritma dan Pemrograman?,analisis_statistik_matkul
+Berapa persen sih yang dapet A di mata kuliah Struktur Data?,analisis_statistik_matkul
+cara lulus Logika Informatika,rekomendasi_cara_belajar
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Teknik Elektro?,tanya_matkul_tersulit
+Langkah persiapan apa saja sebelum mengambil mata kuliah Pengantar Analisis Riil?,rekomendasi_cara_belajar
+rata-rata IP Kalkulus II,analisis_statistik_matkul
+Tips membagi waktu antara teori dan tugas besar pada matkul Dasar Pemrograman,rekomendasi_cara_belajar
+"Saya takut dapet nilai jelek di Kalkulus II, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+Matkul paling killer di jurusan Fisika apaan ya min?,tanya_matkul_tersulit
+Ada rekomendasi buku atau video tutorial buat belajar Dasar Pemrograman?,rekomendasi_cara_belajar
+Apa saja kurikulum dan mata kuliah wajib di jurusan Teknik Elektro?,daftar_matkul_jurusan
+panduan belajar materi Basis Data,rekomendasi_cara_belajar
+Materi apa yang paling penting dipelajari terlebih dahulu di Struktur Data?,rekomendasi_cara_belajar
+matkul killer Ilmu Hukum,tanya_matkul_tersulit
+Terima kasih atas saran dan tips belajarnya ya bot,sapaan_dan_bantuan
+Struktur kurikulum dan mata kuliah peminatan di Sistem Informasi apa aja?,daftar_matkul_jurusan
+Tingkat kelulusan di matkul Basis Data beneran rendah ya min?,analisis_statistik_matkul
+mata kuliah yang ada di Sistem Informasi,daftar_matkul_jurusan
+Berapa total mahasiswa yang pernah menempuh mata kuliah Kalkulus II?,analisis_statistik_matkul
+"Saya takut dapet nilai jelek di Struktur Data, ada saran persiapan belajarnya?",rekomendasi_cara_belajar
+rata-rata IP Struktur Data,analisis_statistik_matkul
+persentase kelulusan Pengantar Analisis Riil,analisis_statistik_matkul
+daftar matkul Sistem Informasi,daftar_matkul_jurusan
+daftar matkul tersulit Akuntansi,tanya_matkul_tersulit
+list matkul jurusan Teknik Informatika,daftar_matkul_jurusan
+Rata-rata IP mahasiswa di matkul Pengantar Analisis Riil jurusan Psikologi berapa ya?,analisis_statistik_matkul
+daftar matkul Matematika,daftar_matkul_jurusan
+Berapa total mahasiswa yang pernah menempuh mata kuliah Basis Data?,analisis_statistik_matkul
+Kenapa banyak mahasiswa Psikologi dapet nilai jelek di semester awal?,tanya_matkul_tersulit
+Rata-rata IP mahasiswa di matkul Dasar Pemrograman jurusan Teknik Elektro berapa ya?,analisis_statistik_matkul
+persentase kelulusan Basis Data,analisis_statistik_matkul
+Gimana cara memahami konsep materi Algoritma dan Pemrograman dari dasar min?,rekomendasi_cara_belajar
+Spill mata kuliah tersulit di Teknik Elektro dong kak,tanya_matkul_tersulit
+Ada rekomendasi buku atau video tutorial buat belajar Struktur Data?,rekomendasi_cara_belajar
+Berapa persen sih yang dapet A di mata kuliah Jaringan Komputer?,analisis_statistik_matkul
+matkul killer Teknik Informatika,tanya_matkul_tersulit
+Materi apa yang paling penting dipelajari terlebih dahulu di Logika Informatika?,rekomendasi_cara_belajar
+matkul persentase D dan E tertinggi Teknik Elektro,tanya_matkul_tersulit
+panduan belajar materi Dasar Pemrograman,rekomendasi_cara_belajar
+Tolong tampilkan statistik sebaran nilai untuk mata kuliah Jaringan Komputer,analisis_statistik_matkul
+Bisa lihat rekapitulasi data nilai mata kuliah Fisika Dasar ga kak?,analisis_statistik_matkul
+Tips membagi waktu antara teori dan tugas besar pada matkul Struktur Data,rekomendasi_cara_belajar
+Trik belajar dan latihan soal buat matkul Jaringan Komputer gimana ya?,rekomendasi_cara_belajar
+Spill katalog mata kuliah jurusan Matematika semester 1 sampai 8,daftar_matkul_jurusan
+Mata kuliah manakah di prodi Teknik Informatika yang mencatatkan tingkat kelulusan paling minim?,tanya_matkul_tersulit
+Spill katalog mata kuliah jurusan Kimia semester 1 sampai 8,daftar_matkul_jurusan
+Mata kuliah apa yang paling bikin IPK anjlok di jurusan Akuntansi?,tanya_matkul_tersulit
+strategi belajar Algoritma dan Pemrograman,rekomendasi_cara_belajar
+Ada matkul horor ga di jurusan Sistem Informasi yang tingkat kelulusannya kecil?,tanya_matkul_tersulit
+Berapa persen sih yang dapet A di mata kuliah Basis Data?,analisis_statistik_matkul
+Langkah persiapan apa saja sebelum mengambil mata kuliah Kalkulus I?,rekomendasi_cara_belajar
+Spill tips dapet nilai bagus di matkul Fisika Dasar dong kak,rekomendasi_cara_belajar
+Cek dong berapa mahasiswa yang ngulang di matkul Dasar Pemrograman,analisis_statistik_matkul
+Tolong list 5 mata kuliah tersulit di Teknik Elektro berdasarkan nilai mahasiswa,tanya_matkul_tersulit
+Bisa lihat daftar nama matkul yang tersedia untuk prodi Manajemen?,daftar_matkul_jurusan
+Spill mata kuliah tersulit di Teknik Informatika dong kak,tanya_matkul_tersulit
+list matkul jurusan Teknik Elektro,daftar_matkul_jurusan
+Kak mau tanya matkul tersulit di program studi Teknik Elektro apa saja?,tanya_matkul_tersulit
+Banyak yang ga lulus di matkul apa sih anak Ilmu Hukum?,tanya_matkul_tersulit
+Materi apa yang paling penting dipelajari terlebih dahulu di Kalkulus I?,rekomendasi_cara_belajar
+Apakah mata kuliah Jaringan Komputer di Teknik Elektro termasuk kategori sulit?,analisis_statistik_matkul
+Banyak yang ga lulus di matkul apa sih anak Matematika?,tanya_matkul_tersulit

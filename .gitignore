@@ -1,0 +1,26 @@
+# Abaikan dataset asli yang memuat data rahasia (NIM, Nama Mahasiswa) & berukuran besar (> 100MB)
+nilai_mhs_IP IPK.csv
+*.csv.original
+*.rar
+*.zip
+
+# Python & Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Cache dataset sementara
+scratch_explore.py
+data/dataset_nlp_intent_preprocessed.csv
+
+# Konfigurasi rahasia & API Keys
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,124 @@
+{
+  "models_evaluated": {
+    "TF-IDF + Linear SVM": {
+      "accuracy": 0.9866,
+      "f1_score": 0.9834,
+      "report": {
+        "analisis_statistik_matkul": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 36.0
+        },
+        "daftar_matkul_jurusan": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 30.0
+        },
+        "rekomendasi_cara_belajar": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 40.0
+        },
+        "sapaan_dan_bantuan": {
+          "precision": 1.0,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.5,
+          "support": 3.0
+        },
+        "tanya_matkul_tersulit": {
+          "precision": 0.9523809523809523,
+          "recall": 1.0,
+          "f1-score": 0.975609756097561,
+          "support": 40.0
+        },
+        "accuracy": 0.9865771812080537,
+        "macro avg": {
+          "precision": 0.9904761904761905,
+          "recall": 0.8666666666666668,
+          "f1-score": 0.8951219512195122,
+          "support": 149.0
+        },
+        "weighted avg": {
+          "precision": 0.9872163630552893,
+          "recall": 0.9865771812080537,
+          "f1-score": 0.983385169422164,
+          "support": 149.0
+        }
+      }
+    },
+    "Word Embedding + BiLSTM": {
+      "accuracy": 0.9933,
+      "f1_score": 0.9927,
+      "loss": 0.0554,
+      "report": {
+        "analisis_statistik_matkul": {
+          "precision": 0.972972972972973,
+          "recall": 1.0,
+          "f1-score": 0.9863013698630136,
+          "support": 36.0
+        },
+        "daftar_matkul_jurusan": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 30.0
+        },
+        "rekomendasi_cara_belajar": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 40.0
+        },
+        "sapaan_dan_bantuan": {
+          "precision": 1.0,
+          "recall": 0.6666666666666666,
+          "f1-score": 0.8,
+          "support": 3.0
+        },
+        "tanya_matkul_tersulit": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 40.0
+        },
+        "accuracy": 0.9932885906040269,
+        "macro avg": {
+          "precision": 0.9945945945945945,
+          "recall": 0.9333333333333332,
+          "f1-score": 0.9572602739726028,
+          "support": 149.0
+        },
+        "weighted avg": {
+          "precision": 0.9934699800471612,
+          "recall": 0.9932885906040269,
+          "f1-score": 0.9926634182219362,
+          "support": 149.0
+        }
+      }
+    }
+  },
+  "all_ml_algorithms": {
+    "Logistic Regression": {
+      "accuracy": 0.9798657718120806,
+      "f1_score": 0.9701625293118784
+    },
+    "Multinomial Naive Bayes": {
+      "accuracy": 0.9731543624161074,
+      "f1_score": 0.9702064116551503
+    },
+    "Linear SVM": {
+      "accuracy": 0.9865771812080537,
+      "f1_score": 0.983385169422164
+    }
+  },
+  "classes": [
+    "analisis_statistik_matkul",
+    "daftar_matkul_jurusan",
+    "rekomendasi_cara_belajar",
+    "sapaan_dan_bantuan",
+    "tanya_matkul_tersulit"
+  ]
+}
